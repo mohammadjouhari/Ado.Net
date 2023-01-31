@@ -1,0 +1,24 @@
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\bin\Debug\net6.0\Ado.NetSqlHelper.deps.json
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\bin\Debug\net6.0\Ado.NetSqlHelper.dll
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\bin\Debug\net6.0\Ado.NetSqlHelper.pdb
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.csproj.AssemblyReference.cache
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.AssemblyInfoInputs.cache
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.AssemblyInfo.cs
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.csproj.CoreCompileInputs.cache
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.dll
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\refint\Ado.NetSqlHelper.dll
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.pdb
+C:\Users\m_243\OneDrive\Desktop\microsoft documentation\.net core\Maqta\Ado.NetSqlHelper\obj\Debug\net6.0\ref\Ado.NetSqlHelper.dll
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\bin\Debug\net6.0\Ado.NetSqlHelper.deps.json
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\bin\Debug\net6.0\Ado.NetSqlHelper.dll
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\bin\Debug\net6.0\Ado.NetSqlHelper.pdb
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.csproj.AssemblyReference.cache
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.AssemblyInfoInputs.cache
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.AssemblyInfo.cs
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.csproj.CoreCompileInputs.cache
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.dll
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\refint\Ado.NetSqlHelper.dll
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\Ado.NetSqlHelper.pdb
+C:\Users\m_243\OneDrive\Desktop\Ado.NetSqlHelper\obj\Debug\net6.0\ref\Ado.NetSqlHelper.dll
